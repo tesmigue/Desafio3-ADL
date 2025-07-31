@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores principales del tema -->
+    <color name="purple_500">#7B1FA2</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#738CA6</color>
+    <color name="teal_700">#041D37</color>
+
+    <!-- Colores básicos -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_dark">#212121</color>
+    <color name="red_error">#B00020</color>
+</resources>
